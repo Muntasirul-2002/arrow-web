@@ -12,7 +12,7 @@ import {fileURLToPath} from 'url';
 dotenv.config();
 
 //db config
-connectDB();
+// connectDB();
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
@@ -42,6 +42,9 @@ app.use("*", function (req, res) {
 const PORT = process.env.PORT || 8080;
 
 //run listen
-app.listen(PORT, () => {
-  console.log(`server running on ${PORT}`);
+connectDB().then(() => {
+  //run listen
+  app.listen(PORT, () => {
+    console.log(`server running on ${PORT}`);
+  });
 });

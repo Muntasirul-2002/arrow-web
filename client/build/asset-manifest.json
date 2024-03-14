@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dd9c50a6.css",
+    "main.js": "/static/js/main.99865ed1.js",
+    "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
+    "static/media/read_grow.jpg": "/static/media/read_grow.7bc2764e569ee0e3a98f.jpg",
+    "static/media/Nature-home-page.jpg": "/static/media/Nature-home-page.153e5f56eea7c18d2e0d.jpg",
+    "static/media/Growth-Path-step.jpg": "/static/media/Growth-Path-step.b82925d5281666313559.jpg",
+    "static/media/Contact.jpg": "/static/media/Contact.562938e13ac7fd839d6e.jpg",
+    "static/media/Kid reading.jpg": "/static/media/Kid reading.50d3de52eea3b0997954.jpg",
+    "static/media/Nature 4.jpg": "/static/media/Nature 4.66a3128a5225fa8f6842.jpg",
+    "static/media/home-hero.jpg": "/static/media/home-hero.8251c00dcc3d0baaf7b8.jpg",
+    "static/media/home-page-hero.jpg": "/static/media/home-page-hero.8251c00dcc3d0baaf7b8.jpg",
+    "static/media/Growth-Path.jpg": "/static/media/Growth-Path.17d314ecc68ddd672022.jpg",
+    "static/media/about-background.jpg": "/static/media/about-background.07e7bb9f582d8d208a28.jpg",
+    "static/media/Segoe UI Bold.woff": "/static/media/Segoe UI Bold.21ecd6932d8c6e2ae14e.woff",
+    "static/media/Segoe UI.woff": "/static/media/Segoe UI.293e692f583af77a347b.woff",
+    "static/media/new-home-back.jpg": "/static/media/new-home-back.8fd47761afda62d44305.jpg",
+    "index.html": "/index.html",
+    "main.dd9c50a6.css.map": "/static/css/main.dd9c50a6.css.map",
+    "main.99865ed1.js.map": "/static/js/main.99865ed1.js.map",
+    "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd9c50a6.css",
+    "static/js/main.99865ed1.js"
+  ]
+}
